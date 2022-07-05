@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I'm Mercy 
+### Hi there 👋, I'm Mercy 
 
 I am a Data Scientist, Data Analyst skilled in Python, SQL, Machine Learning, Optimization, and modeling. 
 
