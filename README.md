@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### I'm Mercy 
+
+I am a Data Scientist, Data Analyst skilled in Python, SQL, Machine Learning, Optimization, and modeling. 
+
+I harness data visualization techniques to present results to stakeholders in order to tell the story the data is longing to tell.
+
+
+
 <!--
 **MercyNgila/MercyNgila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
