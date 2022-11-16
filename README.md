@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mercy 
 
-I am a Data Scientist, Data Analyst skilled in Python, SQL, Machine Learning, Optimization, and modeling. 
+I am a Data Scientist, Data Analyst skilled in Python, SQL, Machine Learning, Optimization, modeling, and visualization. 
 
 I harness data visualization techniques to present results to stakeholders in order to tell the story the data is longing to tell.
 
